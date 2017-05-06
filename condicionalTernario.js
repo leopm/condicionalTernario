@@ -1,4 +1,3 @@
 var isArturo= false;
 var weapon;
-weapon= isArturo ? "excalibur":"other";
-console.log("es arturo"+weapon);
+console.log("es arturo "+ weapon= isArturo ? "excalibur":"other";);
